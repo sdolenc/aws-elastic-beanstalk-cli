@@ -25,7 +25,7 @@ requires = [
     'future>=0.16.0,<0.17.0',
     'pathspec==0.5.9',
     'python-dateutil>=2.1,<2.8.1',  # use the same range that 'botocore' uses
-    'requests==2.22.0',  # use the same minimum as https://github.com/jakubroztocil/httpie/blob/master/setup.py
+    'requests==2.22.0',  # use the same minimum as https://github.com/jakubroztocil/httpie/blob/2.1.0/setup.py
     'setuptools >= 20.0',
     'semantic_version == 2.5.0',
     'six>=1.11.0,<1.12.0',
